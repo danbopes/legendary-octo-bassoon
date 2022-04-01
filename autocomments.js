@@ -128,12 +128,7 @@ callback(
 
 { "name": "[Q] Code improperly edited by non-OP user (Restore code first)", "description": "@code-editor Edits to others' code may invalidate questions and answers. Please read <a href=\"//meta.stackoverflow.com/q/260245\">When should I make edits to code?</a>"},
 
-{ "name": "[Q] "⚠
-Error: Parse error on line 131:
-...},{ "name": "[Q] "It doesn't work" wit
----------------------^
-Expecting 'EOF', '}', ':', ',', ']', got 'undefined'
-It doesn't work" with no exception/error details", "description": "Can you elaborate on how your code \"doesn't work\"? What were you expecting, and what actually happened? If you got an exception/error, post the line it occurred on and the exception/error details. Please [edit] these details in or we may not be able to help."},
+{ "name": "[Q] "It doesn't work" with no exception/error details", "description": "Can you elaborate on how your code \"doesn't work\"? What were you expecting, and what actually happened? If you got an exception/error, post the line it occurred on and the exception/error details. Please [edit] these details in or we may not be able to help."},
 
 { "name": "[Q] Too many ways to solve the problem", "description": "There are too many ways to approach this problem. The answers would just turn into a straw-poll for which one people liked. The best thing is to do some research on the topic yourself, find two or three, _analyze_ them, determine if they work for you or not, and _try them out_. Come to us when you have a specific question about something you have attempted to do."},
 
